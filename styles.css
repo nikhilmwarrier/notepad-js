@@ -1,0 +1,16 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  /* box-sizing: border-box; */
+  height: 100vh;
+  width: 100vw;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#editor {
+  width: 100%;
+  height: 100%;
+  background-color: yellow;
+  padding: 20px;
+  font-size: 1.2rem;
+}
